@@ -80,8 +80,7 @@ Modern AI detectors do not simply inspect metadata; they evaluate deep mathemati
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/swaylq/deai-image.git
-cd deai-image
+git clone https://github.com/GabeGaleno/AI-Image-Detector-Bypass
 
 # Install Python requirements
 pip install -r requirements.txt
